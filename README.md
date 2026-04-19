@@ -1,6 +1,6 @@
 # Rune Kite Streak
 
-A RuneLite plugin that tracks your consecutive Wilderness Agility Course laps that result in a Rune Kiteshield drop. 
+RuneLite plugin that tracks your consecutive Wilderness Agility Course laps that result in a Rune Kiteshield drop. 
 
 ## Features
 * **Streak Tracking:** Counts consecutive laps that drop a Rune Kiteshield from the Wilderness Agility Dispenser.
